@@ -18,7 +18,7 @@
 
 ### ⚡Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,blackboxai" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,openai" />
 </p>
 
 ---
