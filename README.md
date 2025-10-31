@@ -13,12 +13,12 @@
 
 ### 🗄️ Database  
 <p>
-  <img src="https://skillicons.dev/icons?i=sql,prisma,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,prisma,postgresql" />
 </p>
 
 ### ⚡Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,blackboxai" />
 </p>
 
 ---
